@@ -55,7 +55,7 @@
 	4. INTRO SECTION
 	--------------------------------- */
 
-	.intro-section{ padding-top: 350px; }
+	.intro-section{ padding-top: 150px; }
 
 
 	/* ---------------------------------
@@ -116,11 +116,11 @@
 	3. HEADER
 	--------------------------------- */
 
-	header .heading-wrapper{  padding: 30px 20px 20px; }
+	.heading-wrapper{  padding: 30px 20px 20px; }
 
-	header .info .icon{ font-size: 25px; }
+	.info .icon{ font-size: 25px; }
 
-	header .info .right-area{ margin-left: 35px; }
+	.info .right-area{ margin-left: 35px; }
 
 }
 
@@ -139,11 +139,11 @@
 	3. HEADER
 	--------------------------------- */
 
-	header .heading-wrapper{  padding: 10px 15px 0px; }
+	.heading-wrapper{  padding: 10px 15px 0px; }
 
-	header .info .icon{ font-size: 15px; }
+	.info .icon{ font-size: 15px; }
 
-	header .info .right-area{ margin-left: 20px; }
+	.info .right-area{ margin-left: 20px; }
 	
 	/* ---------------------------------
 	4. INTRO SECTION
